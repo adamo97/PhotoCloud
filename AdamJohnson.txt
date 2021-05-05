@@ -1,0 +1,6 @@
+I would like to be part of PhotoCloud!  I think it sounds like a really interesting idea and something that I could see myself using.
+I have full-stack experience, although I haven't used SQL much.  I have worked with relational databases and for work I am currently using FaunaDB which is a
+relational NoSQL database.  I also have experience designing front ends and APIs.
+
+I think the timeline of the term is going to be the most limiting factor on prototype functionality.  Fitting a project like this in such a short time is going to be difficult,
+but I am sure we can get the base down.  I do not have plans to work on this project beyond the scope of the class.
